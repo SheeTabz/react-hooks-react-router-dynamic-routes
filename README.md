@@ -195,7 +195,7 @@ To start, let's create our `MovieShow` component. Later on, we will see that
 this component will need to dynamically figure out which movie it should render.
 
 ```jsx
-// ./src/components/MovieShow.js
+/// ./src/components/MovieShow.js
 import React from "react";
 
 function MovieShow() {
